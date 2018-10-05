@@ -1,0 +1,213 @@
+Deily 07/09/2018
+Area: Desarrollo Movil 
+Platafotma: Android
+Nombre: Jose Alberto Martinez Juarez
+Actividades Realizadas dia Anterior: 
+- Busqueda de Resoluciones optivas para todos los dispositivos moviles
+- Cree la documentacion de la arquitectura del proyecto en MVC y adjuntando lo que se lleva hasta el momento del proyecto
+Actividades Realizadas para hoy
+- Comenzar con el diseño del preciador Multiple para resolucion tablet SW720dp(1920px X 1200px)
+Stoppers: No puedo comenzar con el diseño del preciador fijo hasta terminar el preciador multiple
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+Deily 10/09/2018
+Area: Desarrollo Movil 
+Platafotma: Android
+Nombre: Jose Alberto Martinez Juarez
+Actividades Realizadas dia Anterior: 
+- Ajustes en preciadores de para el preciador fijo, modificando las dimenciones del proyecto, para que se ajuste a todas las resoluciones en moviles,
+- junta de equipo de explicacion de los proyectos que se estaran trabajando. 
+Actividades Realizadas para hoy
+- tratar de terminar lo restande lo las dimenciones, comenzar con el preciador multiple con lo que se tiene
+Stoppers:confirmarme si el preciador fijo en ventana de detalles y desglose de costos se va a mantener, para poder contunuar y de una vez terminar las resoluciones para celulares (vista)
+
+Deily 11/09/2018
+Area: Desarrollo Movil 
+Platafotma: Android
+Nombre: Jose Alberto Martinez Juarez
+Actividades Realizadas dia Anterior: 
+- Creacion de neuvas vistas para el preciador multiuple y ajustando las vistas de preciador fijo al multiple
+Actividades Realizadas para hoy
+- continuar con el diseño de la app para multiples, y verificar si hay cambios en front para realizar esos cambios y ya cambiar esos ajustes. 
+Stoppers:Ninguno
+
+Deily 12/09/2018
+Area: Desarrollo Movil 
+Platafotma: Android
+Nombre: Jose Alberto Martinez Juarez
+Actividades Realizadas dia Anterior: 
+- DIseñe la algunas vistas para el preciador multiple, este es codigo Java el cual es a base a puras matematicas. no existe un codigo xml al 100%, solo consta del toolbar e instrucciones. lo demaas es java en diseño. 
+Actividades Realizadas para hoy
+- continuar con el diseño de la app para multiples, y verificar si hay cambios en preciador fijo para realizar esos cambios de una vez y no arrastrarlos hasta el final. 
+Stoppers:Ninguno
+Observacion: cuando se tengan los servicios de marca, modelo, color, y planes notificarme al igual que a erick para realizar esas tarear y detener el front. posteriormente ya estaria una configuracion real al preciador fijo tanto en celulares como en tabletas. 
+
+Deily 13/09/2018
+Area: Desarrollo Movil 
+Platafotma: Android
+Nombre: Jose Alberto Martinez Juarez
+Actividades Realizadas dia Anterior: 
+- Continuar con el diseño de las vistas para el preciador multiple
+- Documentacion de herramientas para el area de Desarrollo movil, unicamente para Android. 
+Actividades Realizadas para hoy
+- Arreglar las ultimas vistas pendientes para el preciador fijo para tabletas. que son vista previa, desglose de costos, dellates de plan
+- arreglar estilos y colores pendientes.
+- terminar la documentacion de herramientas de desarrollo  movil
+- si se terminan las vistas continuar con el preciador multiple en el front
+Stoppers:Ninguno
+
+
+Deily 14/09/2018
+Area: Desarrollo Movil 
+Platafotma: Android
+Nombre: Jose Alberto Martinez Juarez
+Actividades Realizadas dia Anterior: 
+- finalziacion de las cards, detalles de costos, y detalles de plan en front para celualres y tabler (1 resolucion nadamas)
+- Continuar con la documentacio del analisis de herramientas para el area de desarrollo movil orientado a Android. 
+- Agregar nuevos estilos y colores. 
+Actividades Realizadas para hoy
+- Continuar con el diseño front del preciador multiple 
+- concluir  la documentacion del analisis de herramienta para el area de desarrollo movil orientada a android antes de las 10 am, 
+- realizar el primer testeo con volle/retrofit con el servicio REST de marcas. 
+Stoppers:Ninguno
+
+
+Deily 17/09/2018
+Area: Desarrollo Movil 
+Platafotma: Android
+Nombre: Jose Alberto Martinez Juarez
+Actividades Realizadas dia Anterior: 
+- finalizacion de listeners pendienes en preciador fijo, cards, e incidencias encontradas dentro del preciador fijo
+- continue con el diseño de vistas para preciador multiple en la parte de animaciones en mesa de experiencial. 
+- terminacion del documento del analisisde herramientas 
+Actividades Realizadas para hoy
+- continuar con el diseño del front de la app en preciador multiple
+- subir las actividades
+- realizar un testeo de rest con marcas. 
+Stoppers: La animacion de cambio de dispositivos de 5 a 6 no funciona correctamente, me llevara mas tiempo de lo planeado. 
+
+
+Deily 18/09/2018
+Area: Desarrollo Movil 
+Platafotma: Android
+Nombre: Jose Alberto Martinez Juarez
+Actividades Realizadas dia Anterior: 
+- finalizacion de la vista del exhibidor de 3 a 12 dispositivos en diseño front
+- programacion de verificacion de errores e isset de la vista. 
+- evento listener para colocar la imagen seleccionada dentro del item 
+- inicio de servicio rest de carga de imagenes vista modelos para preciador multiple
+
+Actividades Realizadas para hoy
+- continuar con el diseño del front de la app en preciador multiple
+- realizar terminacion de servicio rest para modelos en preciador multiplatadorma
+- realizar vista de eliminar items con evento ontouch listener 
+Stoppers: un error en codigo java con la validacion del 5 a 3er dispositivo en animacion, el enable no funciona para es item al seleccionarlo
+
+
+Deily 19/09/2018
+Area: Desarrollo Movil 
+Platafotma: Android
+Nombre: Jose Alberto Martinez Juarez
+
+Actividades Realizadas dia Anterior: 
+- finalizacion de la vista del exhibidor de 3 a 12 dispositivos en diseño front (arreglo de fallas) 
+- programacion de verificacion de errores e isset de la vista.
+- Disñeo de la vista de equipos para preciador multiple, agregando multiples componenes para refrescar la vista
+
+Actividades Realizadas para hoy
+- agregar valor de indicador en la parte superior del item de la vista del exhibidor
+- comenzar con el diseño de eliminar item, 
+- realizar vista de eliminar items con evento ontouch listener 
+Stoppers: ninguno. 
+
+Deily 20/09/2018
+Area: Desarrollo Movil 
+Platafotma: Android
+Nombre: Jose Alberto Martinez Juarez
+
+Actividades Realizadas dia Anterior: 
+- finalizacion de la vista del exhibidor de 3 a 12 dispositivos
+- Creacion de vvista para eliminar un dispositivo 
+- Implementacion de evento ontouchclicklistener para el arrastre de objetos(aun implementandose)
+-testeo en servicio rest con volley enviando POST
+
+Actividades Realizadas para hoy
+- Implementar Servicio REST de Marca(post)
+- Implementar servicio REST de Modelo enviando IdMarca(post)
+- Implementar servicio REST de planes IdMarca, idModelo(posr)(por verificar post)
+- Implementar servicio Rest de Colores(post)(por verificar parametros)
+ Stoppers: a menos que se tenga problemas para converir el Json response en Volley implementar una nueva funcion.
+
+
+
+Deily 21/09/2018
+Area: Desarrollo Movil 
+Platafotma: Android
+Nombre: Jose Alberto Martinez Juarez
+
+Actividades Realizadas dia Anterior: 
+- Implementacion de Sercicio REST de Marca(funcional)
+- verificacion de errores en la carga de imagenes para la vista de equipos en preciador multiple
+- Reunion con Backend para verificar herrores y carga de imagenes, realizando validaciones
+- testeo en la vista de eliminar equipo
+
+Actividades Realizadas para hoy
+- Implementar servicio REST de Modelo 
+- Implementar servicio REST de planes
+- Implementar la vista eliminar con la funcionalidad ontouch
+ Stoppers: ninguno.
+
+Deily 24/09/2018
+Area: Desarrollo Movil 
+Platafotma: Android
+Nombre: Jose Alberto Martinez Juarez
+
+Actividades Realizadas dia Anterior: 
+- Revison de Servicio Rest de Modelos
+- REvision de Servicio Rest de Planes
+- Creacion de VIsta de eliminar equipo, en evento onctouch(validar bugs)
+- VErificacion de vista de mesa de experiencia
+- Reuniones con UX y Backend para determinar puntos clave en del desarrollo tanto back como front
+
+Actividades Realizadas para hoy
+- Implementar servicio REST de Modelo
+- Implementar servicio REST de planes
+- Implementar la vista eliminar con la funcionalidad ontouch
+- Verificar cambio en vistas de preciador fijo para tablet.
+- Rediseñar los cambios en vistas de preciador fijo para tablet. 
+- Contunuar con el diseño de front de la app
+ Stoppers: ninguno.
+
+ Deily 25/09/2018
+Area: Desarrollo Movil 
+Platafotma: Android
+Nombre: Jose Alberto Martinez Juarez
+
+Actividades Realizadas dia Anterior: 
+-Terminacion de creacion de vista Eliminar equipo, 
+-Terminacion de vista exhibidores(bugs)
+-Terminacion de vista equipos(rediseño)
+-Inicio de modelado de vista del menu mesa hexagonal
+
+Actividades Realizadas para hoy
+- terminar la vista de menu de mesa hexagonal y cuadrada
+- comenzar el diseño de la vista de mesa hexagonal soportable a 72 dispositivos
+- si los servicios funcionan implementar los servicios REST de modelos y planes
+ Stoppers: en la parte de Servicios, continuan fallas por Red.
+
+Deily 26/09/2018
+Area: Desarrollo Movil 
+Platafotma: Android
+Nombre: Jose Alberto Martinez Juarez
+
+Actividades Realizadas dia Anterior: 
+- Diseño de interface para Vitrina Hexagona
+- Creacion de Algoritmos para reduccion de codigo y reutilizacion de objetos creados en java
+- Actualizar actividades en ASANA
+
+Actividades Realizadas para hoy
+- Continuar con el diseño de interface de Vitrina Hexagonal para 6 Niveles
+- Reunion de departamento del Area de Moviles
+- REvision del Servicio Rest
+ Stoppers: ninguno
