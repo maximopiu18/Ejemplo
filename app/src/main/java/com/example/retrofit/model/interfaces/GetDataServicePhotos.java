@@ -1,8 +1,9 @@
-package com.example.retrofit.interfaces;
+package com.example.retrofit.model.interfaces;
 
 import com.example.retrofit.model.ModelPhoto;
 
 import java.util.List;
+
 import retrofit2.Call;
 import retrofit2.http.GET;
 

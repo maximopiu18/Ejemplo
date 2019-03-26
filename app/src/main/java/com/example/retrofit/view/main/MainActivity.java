@@ -1,17 +1,17 @@
-package com.example.retrofit.iu;
+package com.example.retrofit.view.main;
 
 import android.app.ProgressDialog;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.widget.Toast;
 
 import com.example.retrofit.R;
-import com.example.retrofit.adapter.AdapterPhotos;
 import com.example.retrofit.controller.ControllerInstancePhotos;
-import com.example.retrofit.interfaces.GetDataServicePhotos;
 import com.example.retrofit.model.ModelPhoto;
+import com.example.retrofit.model.interfaces.GetDataServicePhotos;
+import com.example.retrofit.view.adapters.AdapterPhotos;
 
 import java.util.List;
 

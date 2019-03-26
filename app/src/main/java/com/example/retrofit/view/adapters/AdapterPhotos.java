@@ -1,4 +1,4 @@
-package com.example.retrofit.adapter;
+package com.example.retrofit.view.adapters;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -7,7 +7,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-
 import com.example.retrofit.R;
 import com.example.retrofit.model.ModelPhoto;
 import com.jakewharton.picasso.OkHttp3Downloader;

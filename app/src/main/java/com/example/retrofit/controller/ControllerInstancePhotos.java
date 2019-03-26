@@ -1,6 +1,7 @@
 package com.example.retrofit.controller;
 
-import com.example.retrofit.constans.Constantes;
+
+import com.example.retrofit.model.constans.Constantes;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
